@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BestOhah
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking for an internship position
+- 🌱 I’m currently a Data Analyst
 - 📫 How to reach me, email; bestohah9@gmail.com
 
 <!---
