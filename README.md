@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a passionate **Data Analyst** and **Web3 Enthusiast** 
 
 
 ## 📫 Get in Touch
-- **LinkedIn:** Best Ohah (https://www.linkedin.com/in/bestohah/)
+- **LinkedIn:** [Best Ohah](https://www.linkedin.com/in/bestohah/)
 - **Email:** [bestohah9@gmail.com](mailto:bestohah9@gmail.com)
 
 ## 🌟 Achievements
@@ -30,6 +30,6 @@ I’m currently diving deeper into advanced data analytics techniques at Turing 
 My goal is to leverage my expertise in data analytics to drive impactful decisions in the Web3 space, while continuing to mentor and inspire the next generation of data analysts.
 
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me for collaborations or just a chat about data and crypto!
+Thank you for visiting my GitHub profile! Feel free to explore my [repositories](https://nine-spoon-ecd.notion.site/Best-Ohah-s-Portfolio-d4b2e1f9770d4773a35a06003d49e0af) and connect with me for collaborations or just a chat about data and crypto!
 
 ---
