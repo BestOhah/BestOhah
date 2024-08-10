@@ -18,7 +18,8 @@ Welcome to my GitHub! I'm a passionate **Data Analyst** and **Web3 Enthusiast** 
 ## 📫 Get in Touch
 - **LinkedIn:** [Best Ohah](https://www.linkedin.com/in/bestohah/)
 - **Email:** [bestohah9@gmail.com](mailto:bestohah9@gmail.com)
-
+**Portfolio:** [Best Ohah](https://nine-spoon-ecd.notion.site/Best-Ohah-s-Portfolio-d4b2e1f9770d4773a35a06003d49e0af)
+  
 ## 🌟 Achievements
 - **Digital Explorers Fellowship:** Top 50 out of 2,500 candidates, recognized for excellence in data analysis.
 - **Community Engagement:** Increased online engagement by 30% through data-driven content and community management.
